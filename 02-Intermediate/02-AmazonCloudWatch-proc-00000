@@ -1,0 +1,10 @@
+{ "metrics": 
+  {
+    "metrics_collected": {
+      "procstat": [
+        { "exe": "chronyd", "measurement": [ "pid_count" ] },
+        { "exe": "httpd", "measurement": [ "pid_count" ] }
+      ]
+    }
+  }
+}
